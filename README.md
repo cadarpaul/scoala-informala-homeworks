@@ -1,2 +1,2 @@
 # scoala-informala-homeworks
-Paul Cadar
+Paul Cadar exercise
